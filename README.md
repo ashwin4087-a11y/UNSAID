@@ -55,6 +55,37 @@ The project is intentionally being built in stages. The first milestone is relia
 - Next.js frontend
 - Web Speech API for the first speech prototype
 
+## Design system
+
+UNSAID follows a classic, professional visual language designed to feel calm, credible, accessible, and human rather than overly futuristic.
+
+### Color palette
+
+| Role | Hex | RGB | Usage |
+|---|---|---|---|
+| Primary | `#F9F7F7` | `249, 247, 247` | Main backgrounds |
+| Secondary | `#DBE2EF` | `219, 226, 239` | Cards and secondary surfaces |
+| Tertiary | `#3F72AF` | `63, 114, 175` | Primary actions, links, active states |
+| Neutral | `#112D4E` | `17, 45, 78` | Headings, body text, navigation |
+
+### Typography
+
+UNSAID uses a serif/sans-serif pairing to balance editorial character with interface readability:
+
+- **Source Serif 4** — logo, headings, and major display text
+- **Inter** — body copy, navigation, buttons, labels, controls, and technical/data UI
+
+Typography should remain restrained and professional. Avoid overly rounded, playful, futuristic, or decorative typefaces.
+
+### Visual principles
+
+- Minimal and accessible
+- Calm rather than flashy
+- High readability and clear hierarchy
+- Restrained use of color
+- No unnecessary gradients or excessive glassmorphism
+- Interfaces should feel like a serious accessibility product, not a generic AI dashboard
+
 ## Repository structure
 
 ```text
